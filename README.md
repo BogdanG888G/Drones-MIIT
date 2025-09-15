@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <your-repo-url>
-cd drone-object-detection
+git clone https://github.com/BogdanG888G/Drones-MIIT.git
+cd Drones-MIIT
 ```
 
 2. Создайте виртуальное окружение и установите зависимости:
