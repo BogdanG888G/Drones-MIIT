@@ -1,0 +1,32 @@
+
+dataset/labels/*.cache
+dataset/labels/*.cache.*
+
+*.tmp
+*.temp
+
+.ipynb_checkpoints/
+
+*.zip
+*.tar
+*.gz
+
+.env
+.env.local
+
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.py[cod]
+
+*.log
+logs/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# dataset/images/
+# dataset/labels/
